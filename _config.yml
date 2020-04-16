@@ -33,7 +33,7 @@ twitter_url: https://twitter.com/woodalexandern
 markdown: kramdown
 
 # Default twitter card image
-title_image: assets/image/banner.png
+title_image: /assets/image/banner.jpg
 
 sass:
   style: compressed
