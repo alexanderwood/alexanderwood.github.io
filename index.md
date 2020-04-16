@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Alexander Wood's professional website. 
 landing-title: 'Alexander Wood, PhD'
 description: Alexander Wood's professional website.
 image: /assets/images/banner.jpg
