@@ -27,10 +27,18 @@
 				text-align: center;
 				width: 2em;
 			}
+            
+            &:hover {
+                background-color: _palette(accent5);
+            }
         }
         
         &.alt-teal {
             color: _palette(daxteal);
+            
+            &:hover {
+                color: _palette(highlight);
+            }
         }
             
         &.alt-large {
@@ -65,7 +73,7 @@
 
 			&:hover {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: _palette(accent2);
                     color: _palette(bg);
 				}
 			}

@@ -1,13 +1,4 @@
----
-layout: page
-title: R&eacute;sum&eacute;
-description: Alexander Wood's R&eacute;sum&eacute;
-image: assets/images/banner.jpg
-redirect_from: /resume/
-nav-menu: false
----
-
-<!-- Main -->
+I"<Ÿ<!-- Main -->
 <div id="main" class="alt">
     
 <!-- HEADER SECTION -->
@@ -30,7 +21,7 @@ nav-menu: false
     </div>
     <!-- Social Links -->
     <div class="12u$ 12u$(medium)" style="text-align:center;margin-bottom:2em;">
-        <a href="{{ site.twitter_url }}" class="icon alt-teal" target="_blank"><i class = "fab fa-twitter-square" style="font-size:3em;"></i></a>  <a href="{{ site.github_url }}" class="icon alt-teal" target="_blank"><i class="fab fa-github-square" style="font-size:3em;"></i></a>  <a href="{{ site.linkedin_url }}" class="icon alt-teal" target="_blank"><i class="fab fa-linkedin" style="font-size:3em;"></i></a>
+        <a href="https://twitter.com/woodalexandern" class="icon alt-teal" target="_blank"><i class="fab fa-twitter-square" style="font-size:3em;"></i></a>  <a href="https://github.com/alexanderwood" class="icon alt-teal" target="_blank"><i class="fab fa-github-square" style="font-size:3em;"></i></a>  <a href="https://www.linkedin.com/in/woodalexandern/" class="icon alt-teal" target="_blank"><i class="fab fa-linkedin" style="font-size:3em;"></i></a>
     </div>
 </div>
 <!-- Name & Contact -->
@@ -59,7 +50,7 @@ nav-menu: false
     <!-- Experience -->
     <div class="6u 12u$(small)">
         <s2>EXPERIENCE</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <!-- BCIL -->
         <div class="row">
             <div class="8u">
@@ -81,7 +72,7 @@ nav-menu: false
                 <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; University of Michigan</a></s5>
             </div>
         </div>
-        <br>
+        <br />
         <ul style="padding-left:2em;padding-right:2em;">
             <li>Designed and tested machine learning pipelines for automated diagnosis using healthcare data such as imaging and medical coding.</li>
             <li> Worked both independently and under supervision, providing weekly reports and recommendations for overcoming technical obstacles.</li>
@@ -102,17 +93,17 @@ nav-menu: false
             </div>
             <div class="12u">
                 <h4>New York University
-                    <BR>New York City College of Technology
-                    <BR>John Jay College of Criminal Justice
+                    <br />New York City College of Technology
+                    <br />John Jay College of Criminal Justice
                 </h4>
             </div>
             <div class="12u">
                 <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp;  New York, NY</a></s5>
             </div>
         </div>
-        <br>
+        <br />
         <ul style="padding-left:2em;padding-right:2em;">
-            <li>Designed &amp; taught courses including Python for Engineering, Computer Programming and Problem Solving with Python, and Calculus I & II, and more.</li>
+            <li>Designed &amp; taught courses including Python for Engineering, Computer Programming and Problem Solving with Python, and Calculus I &amp; II, and more.</li>
         </ul> 
         <div class="6u">
           <ul class="actions vertical small">
@@ -123,7 +114,7 @@ nav-menu: false
     <!-- Education -->
     <div class="6u$ 12u$(small)">
         <s2>EDUCATION</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <!-- Comp Sci PhD -->
         <div class="row">
             <div class="8u">
@@ -136,7 +127,7 @@ nav-menu: false
                 <h4>The Graduate Center of the City University of New York</h4>
             </div>
         </div>
-        <br>
+        <br />
         <ul style="padding-left:2em;padding-right:2em;">
             <li> Designed, implemented, and evaluated encryption-friendly adaptations of machine learing algorithms in C++</li>
             <li> Used object-oriented programming to create a homomorphic encryption library in C++.</li>
@@ -190,31 +181,31 @@ nav-menu: false
 <section id="skills">
     <s2>SKILLS</s2>
 </section>
-<hr class="section"/>
+<hr class="section" />
 <div class="row" style="margin-left:.5em;margin-right:.5em;margin-bottom:2em;">
     <!-- Technical skills -->
     <div class="4u 12u$(medium)">
         <h1 style="text-align:center;color:#17969C;"><i class="fas fa-keyboard"></i></h1>
-        <p style="text-align:center;">Python, git, SQL<br>
-        sklearn, keras, tensorflow<br>
-        Object-oriented programming<br>
+        <p style="text-align:center;">Python, git, SQL<br />
+        sklearn, keras, tensorflow<br />
+        Object-oriented programming<br />
         TeX, Matlab</p>
     </div>
     <!-- Theory skills -->
     <div class="4u 12u$(medium)">
         <h1 style="text-align:center;color:#17969C;"><i class="fas fa-brain"></i></h1>
-        <p style="text-align:center;">Problem solving<br>
-        Statistics, Machine learning<br>
-        Big data, cloud computing, databases<br>
-        Data cleaning, Data engineering<br>
+        <p style="text-align:center;">Problem solving<br />
+        Statistics, Machine learning<br />
+        Big data, cloud computing, databases<br />
+        Data cleaning, Data engineering<br />
         Algorithms</p>
     </div>
     <!-- Soft skills -->
     <div class="4u$ 12u$(medium)">
         <h1 style="text-align:center;color:#17969C;"><i class="fas fa-handshake"></i></h1>
-        <p style="text-align:center;">Fast learner<br>
-        Collaboration, direct communicator<br>
-        Proactive problem solving<br>Translating tech jargon<br>
+        <p style="text-align:center;">Fast learner<br />
+        Collaboration, direct communicator<br />
+        Proactive problem solving<br />Translating tech jargon<br />
         Eye for detail</p>
     </div>
 </div>
@@ -223,7 +214,7 @@ nav-menu: false
 <section id="projects">
     <s2>PROJECTS</s2>
 </section>
-<hr class="section" style="margin-bottom:2em;">
+<hr class="section" style="margin-bottom:2em;" />
 <div class="row">
     <!-- AngioAid -->
     <div class="6u 12u$(small)">
@@ -239,7 +230,7 @@ nav-menu: false
             </div>
         </div>
         <p>Project lead. Designed, tested, and evaluated machine learning pipeline for real-time evaluation of severity of stenosis, or thinning, of the coronary arteries.</p>
-        <span class="image left"><img src="{% link assets/images/angioaid.png %}" alt="" /></span>
+        <span class="image left"><img src="/assets/images/angioaid.png" alt="" /></span>
         <ul style="margin-left:1em;margin-right:1em;">
             <li>Cleaned and pruned large, messy data from 5 sources to create a curated data set, discarding unusable or irrelevant data</li>
             <li>Built and maintained an accessible data pipeline with Python and SQL</li>
@@ -265,7 +256,7 @@ nav-menu: false
             </div>
         </div>
         <p>Project lead. Used machine learning and computer vision to design and develop real-time recommendation algorithms for clinical decision-making during time sensitive trauma treatment.</p>
-        <center><img src="{% link assets/images/polytrauma.png %}" alt="" /></center>
+        <center><img src="/assets/images/polytrauma.png" alt="" /></center>
         <ul style="margin-left:1em;margin-right:1em;">
             <li>Developed algorithms for automated segmentation of abdominal organs in CT volumes</li>
             <li>Trained cascading classifiers for categorization of CT volume slices based on visualized organs</li>
@@ -289,7 +280,7 @@ nav-menu: false
                 <h4>Toyota Research / University of Michigan</h4>
             </div>
         </div>
-        <br>
+        <br />
         <ul style="margin-left:1em;margin-right:1em;">
             <li>Designed and populated a SQL database unifying 500,000+ health records from 6+ sources into one cohesive data repository.</li>
             <li>Coded a pre-processing pipeline in Python to extract relevant features from text files containing clinical notes and heterogeneous patient records.</li>
@@ -329,9 +320,9 @@ nav-menu: false
     <!-- Publications-->
     <div class="7u 12u$(medium)">
         <s2>SELECTED PUBLICATIONS</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <ul class="alt-small-line">
-            <li>Wood, A., Najarian, K., & Kahrobaei, D. (2020). <b><i>Homomorphic Encryption for Machine Learning in Medicine &amp; Bioinformatics</i></b>. Accepted to ACM Computing Surveys (CSUR).</li>
+            <li>Wood, A., Najarian, K., &amp; Kahrobaei, D. (2020). <b><i>Homomorphic Encryption for Machine Learning in Medicine &amp; Bioinformatics</i></b>. Accepted to ACM Computing Surveys (CSUR).</li>
             <li style="margin-bottom:.5rem;">Wood, A., Shpilrain, V., Najarian, K., &amp; Kahrobaei, D. (2019). <b>Private Naive Bayes Classification of Personal Biomedical Data: Application in Cancer Data Analysis.</b> <i>Computers in Biology and Medicine, 105,</i> 144-150. doi: <a href="//doi.org/10.1016/j.compbiomed.2018.11.018" target="_blank">10.1016/j.compbiomed.2018.11.018</a>.</li>
             <li style="margin-bottom:.5rem;">Wood, A., Soroushmehr, S.M.R., Farzaneh, N., Ward, K., Fessell, D., Gryak, J., &amp; Najarian, K. (2018) <b>Fully Automated Spleen Localization and Segmentation Using Machine Learning and 3D Active Contours.</b> In <i>Proceedings of the 40th IEEE Engineering in Medicine and Biology Society Conference</i> (pp. 53-56). doi: <a href="//doi.org/10.1109/EMBC.2018.8512182" target="_blank">10.1109/EMBC.2018.8512182</a></li>
             <li style="margin-bottom:.5rem;">Wood, A. (2018). <b><i>Private-Key Fully Homomorphic Encryption for Privacy-Preserving Classification of Medical Data.</i></b> (Doctoral dissertation, The Graduate Center of the City University of New York, New York, NY, USA). Available from CUNY Academic Works (<a href="https://academicworks.cuny.edu/gc_etds/2888/" target="blank">No. 2888</a>).</li>
@@ -345,7 +336,7 @@ nav-menu: false
         <!-- Leadership -->
         <div class="12u">
             <s2>ELECTED &amp; LEADERSHIP</s2>
-            <hr class="section"/>
+            <hr class="section" />
                 <div class="row">
                     <div class="6u 12u$(small)">
                         <h5>LGBTQ+ Postdoc Circle</h5>
@@ -385,9 +376,9 @@ nav-menu: false
                 </div>
         </div>
         <!-- Awards -->
-        <div class=12u>
+        <div class="12u">
             <s2>AWARDS &amp; HONORS</s2>
-            <hr class="section"/>
+            <hr class="section" />
             <ul class="alt-small">
                 <li>University Fellowship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
                 <li>Computer Science Fellowship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
@@ -399,7 +390,7 @@ nav-menu: false
                 <li>Shelby Endowed Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
                 <li>O'Malley-Liput Endowed Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
                 <li>Pry Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>Frank & Frances Zeman Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
+                <li>Frank &amp; Frances Zeman Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
             </ul>
             </div>
     </div>
@@ -415,7 +406,7 @@ nav-menu: false
     <div class="6u 12u$(small)">
         <!-- Qualifying Exams -->
         <s2>QUALIFYING EXAMINATIONS</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <div class="row">
             <p>Passed qualifying examinations and requirements as a graduate student in the following departments.</p>
             <div class="6u 12u$(small)">
@@ -445,7 +436,7 @@ nav-menu: false
         <!-- Teaching -->
         <section id="teaching" />
         <s2>TEACHING</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <div class="row">
         <p>Designed and led courses as an adjunct lecturer at New York University, John Jay College of Criminal Justice, and New York City College of Technology. Utilized experiential and collaborative learning techniques. Mentored undergraduate students in a one-on-one capacity. Courses taught include:</p>
         <div class="row">
@@ -473,7 +464,7 @@ nav-menu: false
                 <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <h4>Calculus  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h4>
@@ -482,11 +473,11 @@ nav-menu: false
                 <s4>2015-2016</s4>
             </div>
             <div class="12u" style="line-height:1.1em;margin-bottom:2em;">
-                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br>
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br />
                 <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; John Jay College of Criminal Justice</a></s5>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <h4>Computer Programming and Problem Solving with Python</h4>
@@ -509,11 +500,11 @@ nav-menu: false
                 <s4>2015</s4>
             </div>
             <div class="12u" style="line-height:1.1em;margin-bottom:2em;">
-                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br>
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br />
                 <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; John Jay College of Criminal Justice</a></s5>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <h4>College Algebra  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</h4>
@@ -528,27 +519,27 @@ nav-menu: false
         </div>
         <p></p>
         <!-- Images -->
-        <span class="image fit"><img src="{% link assets/images/squad.jpg %}" alt="#squad" /></span>
+        <span class="image fit"><img src="/assets/images/squad.jpg" alt="#squad" /></span>
         <div class="box alt">
             <div class="row 50% uniform">
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/defense.jpg %}" alt="Dissertation committee" /></span></div>
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/cartoon.png %}" alt="" /></span></div>
-                <div class="4u$"><span class="image fit"><img src="{% link assets/images/york.jpg %}" alt="Tea in York, UK" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/defense.jpg" alt="Dissertation committee" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/cartoon.png" alt="" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="/assets/images/york.jpg" alt="Tea in York, UK" /></span></div>
                 <!-- Break -->
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/poster.jpeg %}" alt="Presenting at Michigan Institute for Data Science" /></span></div>
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/postdoc.jpeg %}" alt="University of Michigan postdoc event" /></span></div>
-                <div class="4u$"><span class="image fit"><img src="{% link assets/images/card.jpeg %}" alt="Business card" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/poster.jpeg" alt="Presenting at Michigan Institute for Data Science" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/postdoc.jpeg" alt="University of Michigan postdoc event" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="/assets/images/card.jpeg" alt="Business card" /></span></div>
                 <!-- Break -->
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/startrek.jpg %}" alt="Science officer, DS9 uniform"/></span></div>
-                <div class="4u"><span class="image fit"><img src="{% link assets/images/dogs.jpg %}" alt="With my dogs" /></span></div>
-                <div class="4u$"><span class="image fit"><img src="{% link assets/images/llap.jpg %}" alt="Science officer, VOY uniform" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/startrek.jpg" alt="Science officer, DS9 uniform" /></span></div>
+                <div class="4u"><span class="image fit"><img src="/assets/images/dogs.jpg" alt="With my dogs" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="/assets/images/llap.jpg" alt="Science officer, VOY uniform" /></span></div>
             </div>
         </div>
     </div>
     <!-- Coursework -->
     <div class="6u 12u$(small)">
         <s2>GRADUATE COURSEWORK</s2>
-        <hr class="section"/>
+        <hr class="section" />
         <div class="row">
             <div class="8u">
                 <hh55>CSC 85030 Algebraic Cryptography</hh55>
@@ -602,7 +593,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>CSC 74020 Machine Learning</hh55>
@@ -643,7 +634,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 70200 Functions of a Real Variable</hh55>
@@ -655,7 +646,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 70800 Topology </hh55>
@@ -667,7 +658,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 87800 Equidistribution in Number Theory</hh55>
@@ -679,7 +670,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 87800 Analysis &amp; Number Theory</hh55>
@@ -691,7 +682,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 70400 Functions of a Complex Variable</hh55>
@@ -703,7 +694,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MATH 70600 Algebra</hh55>
@@ -715,7 +706,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 435 Measure Theory</hh55>
@@ -741,7 +732,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 599 Independent Study: Algebra</hh55>
@@ -753,7 +744,7 @@ nav-menu: false
              <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 599 Independent Study: Analysis</hh55>
@@ -765,7 +756,7 @@ nav-menu: false
                  <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 434 Topology</hh55>
@@ -777,7 +768,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 473 Rings &amp; Modules</hh55>
@@ -789,7 +780,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 451 Probability &amp; Statistics</hh55>
@@ -801,7 +792,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 597 Partial Differential Equations</hh55>
@@ -813,7 +804,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 599 Advanced Differential Equations</hh55>
@@ -825,7 +816,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 472 Algebra</hh55>
@@ -837,7 +828,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>
+        <br />
         <div class="row">
             <div class="8u">
                 <hh55>MAT 471 Group Theory</hh55>
@@ -849,7 +840,7 @@ nav-menu: false
                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
             </div>
         </div>
-        <br>    
+        <br />    
     </div>  
 </div>
 </div>
@@ -865,3 +856,4 @@ nav-menu: false
 
 <!-- End of "main" class tag -->
 </div>
+:ET
