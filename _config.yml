@@ -32,6 +32,9 @@ twitter_url: https://twitter.com/woodalexandern
 # build settings
 markdown: kramdown
 
+# Default twitter card image
+title_image: assets/image/banner.png
+
 sass:
   style: compressed
   
