@@ -7,10 +7,3 @@ image: assets/images/banner.jpg
 author: Alexander Wood
 show_tile: false
 ---
-
-TEST TEST
-TEST TEST
-TEST TEST
-TEST TEST
-TEST TEST
-TEST TEST
