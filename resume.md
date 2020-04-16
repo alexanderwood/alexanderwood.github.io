@@ -389,17 +389,16 @@ nav-menu: false
             <s2>AWARDS &amp; HONORS</s2>
             <hr class="section"/>
             <ul class="alt-small">
-                <li>University Fellowship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
-                <li>Computer Science Fellowship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
-                <li>Research Foundation Assistantship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The City University of New York</a></s5></li>
-                <li>Graduate Assistantship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
-                <li>Mathematics Fellowship &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></li>
-                <li>Mathematics Fellowship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>Presidential Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>Shelby Endowed Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>O'Malley-Liput Endowed Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>Pry Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
-                <li>Frank & Frances Zeman Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
+                <li>Computer Science Fellowship &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></span></li>
+                <li>Research Foundation Assistantship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The City University of New York</a></s5></li>
+                <li>Graduate Assistantship &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></span></li>
+                <li>Mathematics Fellowship &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s5></span></li>
+                <li>Mathematics Fellowship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
+                <li>Presidential Scholarship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
+                <li>Shelby Endowed Scholarship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
+                <li>O'Malley-Liput Endowed Scholarship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
+                <li>Pry Memorial Scholarship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
+                <li>Frank & Frances Zeman Memorial Scholarship  &nbsp; <span><s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></span></li>
             </ul>
         </div>
     </div>
