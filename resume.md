@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R&eacute;sum&eacute;
-description: Alexander Wood's R&eacute;sum&eacute;
+description: 
 image: assets/images/banner.jpg
 redirect_from: /resume/
 nav-menu: false
