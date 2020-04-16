@@ -385,7 +385,7 @@ nav-menu: false
                 </div>
         </div>
         <!-- Awards -->
-        <div class=12u>
+        <div class="12u">
             <s2>AWARDS &amp; HONORS</s2>
             <hr class="section"/>
             <ul class="alt-small">
@@ -401,7 +401,7 @@ nav-menu: false
                 <li>Pry Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
                 <li>Frank & Frances Zeman Memorial Scholarship  &nbsp; <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s5></li>
             </ul>
-            </div>
+        </div>
     </div>
 </div>
 
