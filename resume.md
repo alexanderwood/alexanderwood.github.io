@@ -1,0 +1,810 @@
+---
+layout: page
+title: R&eacute;sum&eacute;
+description: Alexander Wood's R&eacute;sum&eacute;
+image: assets/images/banner.jpg
+redirect_from: /resume/
+nav-menu: false
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<section id="download">
+    <div class="row" style="margin:0 0 0 0;">
+        <div class="12u" style="text-align:right">
+        <ul class="actions">
+	       <li><a href="assets/files/wood_res.pdf" class="button special small">Download PDF</a></li>
+        </ul>
+        </div>
+    </div>
+</section>
+
+<!-- Resume -->
+<section id="resume">
+	<div class="inner">
+        <div class="row">
+            <div class="12u 12u$(medium)" style="text-align:center;">
+                <t1 style="font-family:'Russo One',sans-serif;font-weight:bold;font-size:5em;">R&Eacute;SUM&Eacute;</t1>
+            </div>
+            <div class="12u$ 12u$(medium)" style="text-align:center;margin-bottom:2em;">
+                <a href="{{ site.twitter_url }}" class="icon alt-teal" target="_blank"><i class = "fab fa-twitter-square" style="font-size:3em;"></i></a>  <a href="{{ site.github_url }}" class="icon alt-teal" target="_blank"><i class="fab fa-github-square" style="font-size:3em;"></i></a>  <a href="{{ site.linkedin_url }}" class="icon alt-teal" target="_blank"><i class="fab fa-linkedin" style="font-size:3em;"></i></a>
+            </div>
+        </div>
+
+<!-- Content -->
+<div class="row" style="margin-left:9em;margin-right:9em;text-align:center;">
+    <div class="4u 12u$(medium)">
+        <a href="#" class="icon alt-teal"><i class="fas fa-hand-spock"></i></a> &nbsp; Alexander Wood
+    </div>
+    <div class="4u 12u$(medium)">
+        <a href="#" class="icon alt-teal"><i class="fas fa-map-marker"></i></a> &nbsp; Ann Arbor, MI
+    </div>
+    <div class="4u$ 12u$(medium)">
+    <a href="#" class="icon alt-teal"><i class="fas fa-paper-plane"></i></a>
+                <script language="JavaScript" type="text/javascript"><!--
+              var uniqname = "alexwood2"; var hostname = "gmail.com";
+              var link = uniqname + " @ " + hostname;
+              document.write("<a hr" + "e" + "f=mai" + "lto:" + uniqname + "" + "@" + hostname + ">" + link + "</" + "a>");
+           --> </script>
+    </div>
+</div>
+
+<p></p>
+
+<!-- Experience & Education -->
+<div class="row">
+    <div class="6u 12u$(small)">
+        <s2>EXPERIENCE</s2>
+        <hr class="section"/>
+        <div class="row">
+            <div class="8u">
+                <r4>Research Fellow</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2018-2020</s5>
+            </div>
+            <div class="8u">
+                <r4>Research Scientist</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2017-2018</s5>
+            </div>
+            <div class="12u">
+                <h4>Biomedical &amp; Clinical Informatics Lab</h4>
+            </div>
+            <div class="12u">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; University of Michigan</a></s5>
+            </div>
+        </div>
+        <br>
+        <ul style="padding-left:2em;padding-right:2em;">
+            <li>Designed and tested machine learning pipelines for automated diagnosis using healthcare data such as imaging and medical coding.</li>
+            <li> Worked both independently and under supervision, providing weekly reports and recommendations for overcoming technical obstacles.</li>
+            <li>Communicated technical results to a diverse team of managers, investors, clinicians, engineers, and students.</li>
+        </ul>
+        <div class="6u">
+		  <ul class="actions vertical small">
+            <li><a href="#projects" class="button next small scrolly">Projects &nbsp;</a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="8u">
+                <r4>Adjunct Lecturer</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2015-2017</s5>
+            </div>
+            <div class="12u">
+                <h4>New York University
+                    <BR>New York City College of Technology
+                    <BR>John Jay College of Criminal Justice
+                </h4>
+            </div>
+            <div class="12u">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp;  New York, NY</a></s5>
+            </div>
+        </div>
+        <br>
+        <ul style="padding-left:2em;padding-right:2em;">
+            <li>Designed &amp; taught courses including Python for Engineering, Computer Programming and Problem
+Solving with Python, and Calculus I & II, and more.</li>
+        </ul> 
+    </div>
+    <div class="6u$ 12u$(small)">
+        <s2>EDUCATION</s2>
+        <hr class="section"/>
+        <div class="row">
+            <div class="8u">
+                <r4>Ph.D. in Computer Science</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2018</s5>
+            </div>
+            <div class="12u">
+                <h4>The Graduate Center of the City University of New York</h4>
+            </div>
+        </div>
+        <br>
+        <ul style="padding-left:2em;padding-right:2em;">
+            <li> Designed, implemented, and evaluated encryption-friendly adaptations of machine learing algorithms in C++</li>
+            <li> Used object-oriented programming to create a homomorphic encryption library in C++.</li>
+        </ul>
+        <div class="6u">
+		  <ul class="actions vertical small">
+            <li><a href="#projects" class="button next small scrolly">See more &nbsp;</a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="8u">
+                <r4>M.Phil. in Computer Science</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2017</s5>
+            </div>
+            <div class="12u">
+                <h4>The Graduate Center, CUNY</h4>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <r4>M.S. in Mathematics</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2015</s5>
+            </div>
+            <div class="12u">
+                <h4>DePaul University</h4>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <r4>B.A. in Mathematics</r4>
+            </div>
+            <div class="4u align-right">
+                <s5>2012</s5>
+            </div>
+            <div class="12u">
+                <h4>DePaul University</h4>
+            </div>
+        </div>
+    </div>
+</div>
+<p></p>
+        
+<!-- Skills -->
+<section id="skills">
+    <s2>SKILLS</s2>
+<hr class="section"/>
+<div class="row" style="margin-left:.5em;margin-right:.5em;">
+	<div class="4u 12u$(medium)">
+        <h1 style="text-align:center;color:#17969C;"><i class="fas fa-keyboard"></i></h1>
+		<p style="text-align:center;">Python, git, SQL<br>
+        sklearn, keras, tensorflow<br>
+        Object-oriented programming<br>
+        TeX, Matlab</p>
+	</div>
+	<div class="4u 12u$(medium)">
+		<h1 style="text-align:center;color:#17969C;"><i class="fas fa-brain"></i></h1>
+		<p style="text-align:center;">Problem solving<br>
+        Statistics, Machine learning<br>
+        Big data, cloud computing, databases<br>
+        Data cleaning, Data engineering<br>
+        Algorithms</p>
+	</div>
+	<div class="4u$ 12u$(medium)">
+		<h1 style="text-align:center;color:#17969C;"><i class="fas fa-handshake"></i></h1>
+		<p style="text-align:center;">Fast learner<br>
+        Collaboration, direct communicator<br>
+        Proactive problem solving<br>Translating tech jargon<br>
+        Eye for detail</p>
+	</div>
+</div>
+</section>
+<p></p>
+
+<!-- Projects -->
+<section id="projects">
+    <s2>PROJECTS</s2>
+</section>
+<hr class="section">
+<div class="row">
+	<div class="6u 12u$(small)">
+		<div class="row">
+            <div class="8u">
+                <h3>AngioAid</h3>
+            </div>
+            <div class="4u align-right">
+                <s5>2018-2020</s5>
+            </div>
+            <div class="12u">
+                <h4>AngioInsight / University of Michigan</h4>
+            </div>
+        </div>
+        <p>Project lead. Designed, tested, and evaluated machine learning pipeline for real-time evaluation of severity of stenosis, or thinning, of the coronary arteries.</p>
+        <span class="image left"><img src="{% link assets/images/angioaid.png %}" alt="" /></span>
+        <ul style="margin-left:1em;margin-right:1em;">
+            <li>Cleaned and pruned large, messy data from 5 sources to create a curated data set, discarding unusable or irrelevant data</li>
+            <li>Built and maintained an accessible data pipeline with Python and SQL</li>
+            <li>Engineered features to extract relevant and actionable information from data regarding the severity of stenosis</li>
+            <li>Analyzed complex model results to discover actionable insights</li>
+            <li>Increased model performance with a novel automated data cleaning pipeline</li>
+        </ul>
+        <ul class="actions vertical small">
+            <li><a href="projects#angio" class="button next small scrolly">See more &nbsp;</a></li>
+        </ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<div class="row">
+            <div class="8u">
+                <h3>Polytrauma Decision Support System</h3>
+            </div>
+            <div class="4u align-right">
+                <s5>2017-2019</s5>
+            </div>
+            <div class="12u">
+                <h4>University of Michigan</h4>
+            </div>
+        </div>
+        <p>Project lead. Used machine learning and computer vision to design and develop real-time recommendation algorithms for clinical decision-making during time sensitive trauma treatment.</p>
+        <center><img src="{% link assets/images/polytrauma.png %}" alt="" /></center>
+        <ul style="margin-left:1em;margin-right:1em;">
+            <li>Developed algorithms for automated segmentation of abdominal organs in CT volumes</li>
+            <li>Trained cascading classifiers for categorization of CT volume slices based on visualized organs</li>
+            <li>Coordinated a small group of talented graduate and undergraduate students</li>
+        </ul>
+        <ul class="actions vertical small">
+            <li><a href="projects#polytrauma" class="button next small scrolly">See more &nbsp;</a></li>
+        </ul>
+	</div>
+    <!-- Break -->
+    <div class="6u 12u$(small)">
+        <div class="row">
+            <div class="8u">
+                <h3>Cardiac Event Database</h3>
+            </div>
+            <div class="4u align-right">
+                <s5>2018-2020</s5>
+            </div>
+            <div class="12u">
+                <h4>Toyota Research / University of Michigan</h4>
+            </div>
+        </div>
+        <br>
+        <ul style="margin-left:1em;margin-right:1em;">
+            <li>Designed and populated a SQL database unifying 500,000+ health records from 6+ sources into one cohesive data repository.</li>
+            <li>Coded a pre-processing pipeline in Python to extract relevant features from text files containing clinical notes and heterogeneous patient records.</li>
+        </ul>
+        <ul class="actions vertical small">
+            <li><a href="projects#toyota" class="button next small scrolly">See more &nbsp;</a></li>
+        </ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+        <div class="row">
+            <div class="8u">
+                <h3>Privacy-Preserving Machine Learning</h3>
+            </div>
+            <div class="4u align-right">
+                <s5>2015-2018</s5>
+            </div>
+            <div class="12u">
+                <h4>The Graduate Center, CUNY</h4>
+            </div>
+        </div>
+        <ul style="margin-left:1em;margin-right:1em;">
+            <li> Designed, implemented, and evaluated encryption-friendly adaptations of machine learing algorithms in C++</li>
+            <li>Algorithms include privacy-preserving versions of naive Bayes, decision tree, and third-party search</li>
+            <li>Used object-oriented programming to create a homomorphic encryption library in C++</li>
+        </ul>
+        <ul class="actions vertical small">
+            <li><a href="projects#fhml" class="button next small scrolly">See more &nbsp;</a></li>
+        </ul>
+	</div>
+</div>
+
+
+<!-- Awards -->
+<div class="row">
+    <div class="5u 12u$(small)">
+        <s2>AWARDS &amp; HONORS</s2>
+        <hr class="section"/>
+        <ul class="alt-small">
+            <li>University Fellowship, The Graduate Center</li>
+            <li>Computer Science Fellowship, The Graduate Center</li>
+            <li>Research Foundation Assistantship, City University of New York</li>
+            <li>Graduate Assistantship, The Graduate Center</li>
+            <li>Mathematics Fellowship, The Graduate Center</li>
+            <li>Mathematics Fellowship, DePaul University</li>
+            <li>Presidential Scholarship, DePaul University</li>
+            <li>Shelby Endowed Scholarship, DePaul University</li>
+            <li>O'Malley-Liput Endowed Scholarship, DePaul University</li>
+            <li>Pry Memorial Scholarship, DePaul University</li>
+            <li>Frank & Frances Zeman Memorial Scholarship, DePaul University</li>
+        </ul>
+        <br>
+        <s2>ELECTED &amp; LEADERSHIP POSITIONS</s2>
+        <hr class="section"/>
+        <ul class="alt-small">
+            <li>LGBTQ+ Postdoc Circle, co-organizer (2019-2020)</li>
+            <li>Student Cryptography Seminar, co-organizer (2014-2016)</li>
+            <li>Doctoral Students' Council, CS representative (2015-2016)</li>
+            <li>Graduate Council, CS representative (2015-2016)</li>
+            <li>Computer Science Students' Association, Chairperson (2016), Member (2015)</li>
+            <li>Technology Fee Committee, member (2015-2016)</li>
+            <li>Member of the Department of Computer Science Elections, Curriculum, and Executive Committees</li>
+        </ul>
+    </div>
+    <div class="7u 12u$(small)">
+        <s2>SELECTED PUBLICATIONS</s2>
+        <hr class="section"/>
+        <ul class="alt-small-line">
+            <li>Wood, A., Najarian, K., & Kahrobaei, D. (2020). <b><i>Homomorphic Encryption for Machine Learning in Medicine &amp; Bioinformatics</i></b>. Accepted to ACM Computing Surveys (CSUR).</li>
+            <li style="margin-bottom:.5rem;">Wood, A., Shpilrain, V., Najarian, K., &amp; Kahrobaei, D. (2019). <b>Private Naive Bayes Classification of Personal Biomedical Data: Application in Cancer Data Analysis.</b> <i>Computers in Biology and Medicine, 105,</i> 144-150. doi: <a href="//doi.org/10.1016/j.compbiomed.2018.11.018" target="_blank">10.1016/j.compbiomed.2018.11.018</a>.</li>
+            <li style="margin-bottom:.5rem;">Wood, A., Soroushmehr, S.M.R., Farzaneh, N., Ward, K., Fessell, D., Gryak, J., &amp; Najarian, K. (2018) <b>Fully Automated Spleen Localization and Segmentation Using Machine Learning and 3D Active Contours.</b> In <i>Proceedings of the 40th IEEE Engineering in Medicine and Biology Society Conference</i> (pp. 53-56). doi: <a href="//doi.org/10.1109/EMBC.2018.8512182" target="_blank">10.1109/EMBC.2018.8512182</a></li>
+            <li style="margin-bottom:.5rem;">Wood, A. (2018). <b><i>Private-Key Fully Homomorphic Encryption for Privacy-Preserving Classification of Medical Data.</i></b> (Doctoral dissertation, The Graduate Center of the City University of New York, New York, NY, USA). Available from CUNY Academic Works (<a href="https://academicworks.cuny.edu/gc_etds/2888/" target="blank">No. 2888</a>).</li>
+            <li style="margin-bottom:.5rem;">Wood, A., Shpilrain, V., Najarian, K., Mostashari, A., &amp; Kahrobaei, D. (2018). <b>Private-key fully homomorphic encryption for private classification.</b> In <i>International Congress on Mathematical Software - ICMS 2018</i> (pp. 475-481). doi: <a href="//doi.org/10.1007/978-3-319-96418-8_56" target="_blank">10.1007/978-3-319-96418-8_56</a>.</li>
+            <li style="margin-bottom:.5rem;">Farzaneh, N., Soroushmehr, S.M.R., Patel, H., Wood, A., Gryak, J., Fessell, D., &amp; Najarian, K. (2018). <strong>Automated Kidney Segmentation for Traumatic Injured Patients through Ensemble Learning and Active Contour Modeling.</strong> In <em>Proceedings of the 40th IEEE Engineering in Medicine and Biology Society Conference</em> (pp. 3418-3421). doi: <a href="//doi.org10.1109/EMBC.2018.8512967" target="_blank">10.1109/EMBC.2018.8512967</a></li>
+            <li style="margin-bottom:.5rem;">Li, Z., Derksen, H., Gryak, J., Hooshmand, M., Wood, A., Ghanbari, H., Gunaratne, P., Najarian, K. (2018). <b>Supraventricular tachycardia detection via machine learning algorithms.</b> In <i>2018 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</i> (pp. 2419-2422). doi: <a href="//doi.org/10.1109/BIBM.2018.8621164" target="_blank">10.1109/BIBM.2018.8621164</a>.</li>
+        </ul>
+    </div>
+</div>
+
+<p></p>
+<!-- Coursework, Qualifying Exams, & Teaching -->
+<div class="row">
+    <!-- Coursework -->
+    <div class="6u 12u$(small)">
+        <s2>GRADUATE COURSEWORK</s2>
+        <hr class="section"/>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 85030 Algebraic Cryptography</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2016</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <ul class="alt-small">
+            <li>Final presentation: Generic-case complexity in non-commutative cryptography (<a href="assets/files/csc85030_fall16_slides.pdf" target="blank">slides</a>)</li>
+        </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>Bioinformatics I</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2016</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; University of California San Diego via Coursera</a></s6>
+            </div>
+        </div>
+        <ul class="alt-small">
+            <li><a href="https://www.coursera.org/account/accomplishments/certificate/Z7WXH7Z5WNGY" target="blank">Course certificate</a></li>
+        </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 85030 Digital Currencies</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2016</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <ul class="alt-small">
+            <li>Final presentation: MixCoin: Anonymity for BitCoin with Accountable Mixes (<a href="assets/files/csc85030_spring16.pdf" target="blank">slides</a>)</li>
+        </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 72030 Database Systems</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2016</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 74020 Machine Learning</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <ul class="alt-small">
+            <li>Midterm: Behavior of Distance Metrics in High Dimensional Spaces (<a href="assets/files/csc74020.pdf" target="blank">report</a>)</li>
+        <li>Final: Quantization &amp; Statistical Analysis of Data Using a Bayes Decision Rule (<a href="assets/files/csc74020-2.pdf" target="blank">report</a>)</li>
+        </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 85030 Cryptographic Protocols</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <ul class="alt-small">
+            <li>Final project: Weighted Threshold Secret Sharing (<a href="assets/files/csc85030.pdf" target="blank">report</a>, <a href="assets/files/csc85030_slides.pdf" target="_blank">slides</a>)</li>
+        </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>CSC 70010 Analysis of Algorithms</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 70200 Functions of a Real Variable</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2014 - Spring 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 70800 Topology </hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2013, Spring 2016</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 87800 Equidistribution in Number Theory</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 87800 Analysis &amp; Number Theory</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2015</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 70400 Functions of a Complex Variable</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2013 - Spring 2014</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MATH 70600 Algebra</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2013 - Spring 2014</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; The Graduate Center, CUNY</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 435 Measure Theory</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <ul class="alt-small">
+            <li>Spring 2013. DePaul University (<a href="assets/files/mat435.pdf" target="_blank">study guide</a>)</li>
+	    </ul>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 436 Functional Analysis</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 599 Independent Study: Algebra</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+             <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 599 Independent Study: Analysis</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                 <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 434 Topology</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Winter 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 473 Rings &amp; Modules</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Winter 2013</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 451 Probability &amp; Statistics</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2012</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 597 Partial Differential Equations</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2012</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 599 Advanced Differential Equations</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2012</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 472 Algebra</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Spring 2012</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>
+        <div class="row">
+            <div class="8u">
+                <hh55>MAT 471 Group Theory</hh55>
+            </div>
+            <div class="4u align-right">
+                <s6>Fall 2011</s6>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s6><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; DePaul University</a></s6>
+            </div>
+        </div>
+	    <br>    
+    </div>
+    <!-- Qualifying Exams & Teaching & Images -->
+    <div class="6u 12u$(small)">
+        <!-- Qualifying Exams -->
+        <s2>QUALIFYING EXAMINATIONS</s2>
+        <hr class="section"/>
+        <div class="row">
+            <p>Passed qualifying examinations and requirements as a graduate student in the following departments.</p>
+            <div class="6u 12u$(small)">
+                <h4>Department of Computer Science</h4>
+                <s5><a class="icon"><i class="fas fa-map-marker" style="margin-bottom:1.1em;"></i>&nbsp; The Graduate Center, CUNY</a></s5>
+                <ul>
+                    <li>Algorithms &amp; Theory</li>
+                    <li>Artificial Intelligence</li>
+                    <li>Systems and Computational Science</li>
+                </ul>
+	       </div>
+	       <div class="6u$ 12u$(small)">
+               <h4>Department of Mathematics</h4>
+               <s5><a class="icon"><i class="fas fa-map-marker" style="margin-bottom:1.1em;"></i>&nbsp; The Graduate Center, CUNY</a></s5>
+                <ul>
+                    <li>Abstract Algebra</li>
+                    <li>Algebraic Topology</li>
+                </ul>
+               <h4>Department of Mathematical Sciences</h4>
+               <s5><a class="icon"><i class="fas fa-map-marker" style="margin-bottom:1.1em;"></i>&nbsp; DePaul University</a></s5>
+                <ul>
+                    <li>Algebra</li>
+                    <li>Analysis</li>
+                </ul>
+	       </div>
+        </div>
+        <!-- Teaching -->
+        <s2>TEACHING</s2>
+        <hr class="section"/>
+        <div class="row">
+        <p>Designed and led courses as an adjunct lecturer at New York University, John Jay College of Criminal Justice, and New York City College of Technology. Utilized experiential and collaborative learning techniques. Mentored undergraduate students in a one-on-one capacity. Courses taught include:</p>
+        <div class="row">
+            <div class="8u">
+                <h4>Cryptography and Cryptanalysis</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2017</s4>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:.5em;">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; John Jay College of Criminal Justice</a></s5>
+            </div>
+            <ul style="list-style:none; padding-left:2em;margin-bottom:.5em;">
+                <li><a href="https://github.com/alexanderwood/IntroCryptography_Lectures" target="blank">Course materials</a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="8u">
+                <h4>Python for Engineering</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2016</s4>
+            </div>
+            <div class="12u" style="line-height:0;margin-bottom:2em;">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <h4>Calculus</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2015-2016</s4>
+            </div>
+            <div class="12u" style="line-height:1.1em;margin-bottom:2em;">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br>
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; John Jay College of Criminal Justice</a></s5>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <h4>Computer Programming and Problem Solving with Python</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2016</s4>
+            </div>
+            <div class="12u" style="line-height:0em;margin-bottom:.5em;">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; &nbsp; New York City College of Technology</a></s5>
+            </div>
+            <ul style="list-style:none; padding-left:2em;margin-bottom:1em;">
+                <li><a href="https://github.com/alexanderwood/IntroToPython_CourseMaterial" target="blank">Course materials</a></li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="8u">
+                <h4>Precalculus</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2015</s4>
+            </div>
+            <div class="12u" style="line-height:1.1em;margin-bottom:2em;">
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; New York University</a></s5><br>
+                <s5><a class="icon"><i class="fas fa-map-marker"></i>&nbsp; John Jay College of Criminal Justice</a></s5>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="8u">
+                <h4>College Algebra</h4>
+            </div>
+            <div class="4u align-right">
+                <s4>2015</s4>
+            </div>
+            <div class="12u" style="line-height:0em;margin-bottom:.5em;">
+                <s5><a class="icon fa-map-marker">&nbsp; John Jay College of Criminal Justice</a></s5>
+            </div>
+        </div>
+        </div>
+        <p></p>
+        <!-- Images -->
+        <span class="image fit"><img src="{% link assets/images/squad.jpg %}" alt="#squad" /></span>
+        <div class="box alt">
+            <div class="row 50% uniform">
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/defense.jpg %}" alt="Dissertation committee" /></span></div>
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/cartoon.png %}" alt="" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="{% link assets/images/york.jpg %}" alt="Tea in York, UK" /></span></div>
+                <!-- Break -->
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/poster.jpeg %}" alt="Presenting at Michigan Institute for Data Science" /></span></div>
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/postdoc.jpeg %}" alt="University of Michigan postdoc event" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="{% link assets/images/card.jpeg %}" alt="Business card" /></span></div>
+		        <!-- Break -->
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/startrek.jpg %}" alt="Science officer, DS9 uniform"/></span></div>
+                <div class="4u"><span class="image fit"><img src="{% link assets/images/dogs.jpg %}" alt="With my dogs" /></span></div>
+                <div class="4u$"><span class="image fit"><img src="{% link assets/images/llap.jpg %}" alt="Science officer, VOY uniform" /></span></div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<p></p>
+    <div class="row" style="margin:0 0 0 0;">
+        <div class="12u" style="text-align:center">
+        <ul class="actions">
+	       <li><a href="assets/files/wood_res.pdf" class="button special large">Download PDF</a></li>
+        </ul>
+        </div>
+    </div>
+
+</div>
+</section>
+
+</div>

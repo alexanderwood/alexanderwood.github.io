@@ -1,0 +1,39 @@
+# site settings
+title: Alexander Wood
+subtitle: Data Scientist
+email: alexwood2 [at] gmail
+description:
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Alexander Wood
+street_address: 
+city: Ann Arbor
+state: MI
+zip_code: 
+country: United States
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/alexanderwood
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/woodalexandern/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/woodalexandern
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+  
+plugins:
+  - jekyll-redirect-from

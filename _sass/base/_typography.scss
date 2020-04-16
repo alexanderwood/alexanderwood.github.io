@@ -1,0 +1,348 @@
+///
+/// Forty by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Type */
+
+	body, input, select, textarea {
+		color: _palette(fg);
+		font-family: _font(family);
+		font-size: 17pt;
+		font-weight: _font(weight);
+		letter-spacing: _font(letter-spacing);
+		line-height: 1.65;
+
+		@include breakpoint(xlarge) {
+			font-size: 14pt;
+		}
+
+		@include breakpoint(large) {
+			font-size: 12pt;
+		}
+
+		@include breakpoint(xxsmall) {
+			font-size: 11pt;
+		}
+	}
+
+	a {
+		@include vendor('transition', (
+			'color #{_duration(transition)} ease-in-out',
+			'border-bottom-color #{_duration(transition)} ease-in-out'
+		));
+		border-bottom: dotted 1px;
+		color: inherit;
+		text-decoration: none;
+
+		&:hover {
+			border-bottom-color: transparent;
+			color: _palette(highlight) !important;
+		}
+
+		&:active {
+			color: desaturate(darken(_palette(highlight), 15), 5) !important;
+		}
+	}
+
+	strong, b {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+	}
+
+	em, i {
+		font-style: italic;
+	}
+
+	p {
+		margin: 0 0 _size(element-margin) 0;
+	}
+
+	blockquote > p {
+		margin: 0;
+	}
+
+	h1, h2, h3, h4, h5, h6 {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+		line-height: 1.1;
+		margin: 0 0 (_size(element-margin) * 0.15) 0;
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
+	}
+
+	h1 {
+		font-size: 2.5em;
+	}
+
+	h2 {
+		font-size: 1.75em;
+	}
+
+	h3 {
+		font-size: 1.35em;
+	}
+
+	h4 {
+		font-size: 1.1em;
+	}
+
+	h5 {
+		font-size: 0.9em;
+	}
+
+	h6 {
+		font-size: 0.7em;
+	}
+
+    hh1, hh2, hh3, hh4, hh5, hh55, hh6 {
+		color: _palette(fg-bold);
+		font-weight: _font(weight-bold);
+		line-height: 1;
+		margin: 0 0 0 0;
+	}
+
+	hh1 {
+		font-size: 2.5em;
+	}
+
+	hh2 {
+		font-size: 1.75em;
+	}
+
+	hh3 {
+		font-size: 1.35em;
+	}
+
+	hh4 {
+		font-size: 1.1em;
+	}
+
+	hh5 {
+		font-size: 0.9em;
+	}
+
+    hh55 {
+		font-size: 0.8em;
+	}
+
+	hh6 {
+		font-size: 0.7em;
+	}
+
+	r1, r2, r3, r4, r5, r6 {
+		color: _palette(fg-bold);
+		font-weight: _font(normal);
+		line-height: 1.1;
+		margin: 0 0 (_size(element-margin) * 0.15) 0;
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
+	}
+
+	r1 {
+		font-size: 2.5em;
+	}
+
+	r2 {
+		font-size: 1.75em;
+	}
+
+	r3 {
+		font-size: 1.35em;
+	}
+
+	r4 {
+		font-size: 1.1em;
+	}
+
+	r5 {
+		font-size: 0.9em;
+	}
+
+	r6 {
+		font-size: 0.7em;
+	}
+
+	s1, s2, s3, s4, s5, s6 {
+		color: _palette(fg-light);
+		font-weight: _font(lighter);
+		line-height: 1.1;
+		margin: 0 0 (_size(element-margin) * 0.15) 0;
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
+	}
+
+	s1 {
+		font-size: 2.5em;
+	}
+
+	s2 {
+		font-size: 1.75em;
+	}
+
+	s3 {
+		font-size: 1.35em;
+	}
+
+	s4 {
+		font-size: 1.1em;
+	}
+
+	s5 {
+		font-size: 0.9em;
+	}
+
+	s6 {
+		font-size: 0.7em;
+	}
+
+t1, t2, t3, t4, t5, t6 {
+		color: _palette(daxteal);
+		font-weight: _font(lighter);
+		line-height: 1.1;
+		margin: 0 0 (_size(element-margin) * 0.15) 0;
+
+		a {
+			color: inherit;
+			border-bottom: 0;
+		}
+	}
+
+	t1 {
+		font-size: 2.5em;
+	}
+
+	t2 {
+		font-size: 1.75em;
+	}
+
+	t3 {
+		font-size: 1.35em;
+	}
+
+	t4 {
+		font-size: 1.1em;
+	}
+
+	t5 {
+		font-size: 0.9em;
+	}
+
+	t6 {
+		font-size: 0.7em;
+	}
+
+	@include breakpoint(small) {
+		h1 {
+			font-size: 2em;
+		}
+
+		h2 {
+			font-size: 1.5em;
+		}
+
+		h3 {
+			font-size: 1.25em;
+		}
+        s1 {
+			font-size: 2em;
+		}
+
+		s2 {
+			font-size: 1.5em;
+		}
+
+		s3 {
+			font-size: 1.25em;
+		}
+        r1 {
+			font-size: 2em;
+		}
+
+		r2 {
+			font-size: 1.5em;
+		}
+
+		r3 {
+			font-size: 1.25em;
+		}
+	}
+
+	sub {
+		font-size: 0.8em;
+		position: relative;
+		top: 0.5em;
+	}
+
+	sup {
+		font-size: 0.8em;
+		position: relative;
+		top: -0.5em;
+	}
+
+	blockquote {
+		border-left: solid 4px _palette(border);
+		font-style: italic;
+		margin: 0 0 _size(element-margin) 0;
+		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
+	}
+
+	code {
+		background: _palette(fg-light);
+		font-family: _font(family-fixed);
+		font-size: 0.9em;
+		margin: 0 0.25em;
+		padding: 0.25em 0.65em;
+	}
+
+	pre {
+		-webkit-overflow-scrolling: touch;
+		font-family: _font(family-fixed);
+		font-size: 0.9em;
+		margin: 0 0 _size(element-margin) 0;
+
+		code {
+			display: block;
+			line-height: 1.75;
+			padding: 1em 1.5em;
+			overflow-x: auto;
+		}
+	}
+
+	hr {
+		border: 0;
+		border-bottom: solid 1px _palette(daxteal);
+		margin: _size(element-margin) 0;
+
+		&.major {
+			margin: (_size(element-margin) * 1.5) 0;
+            border-bottom: solid 5px _palette(daxteal);
+		}
+        
+        &.section {
+            margin: 0 0 _size(element-margin) 0;
+            border-bottom: solid 4px _palette(fg-light);
+        }
+	}
+
+	.align-left {
+		text-align: left;
+	}
+
+	.align-center {
+		text-align: center;
+	}
+
+	.align-right {
+		text-align: right !important;
+	}
