@@ -302,11 +302,13 @@ t1, t2, t3, t4, t5, t6 {
 	}
 
 	code {
-		background: _palette(fg-light);
+		background: lighten(_palette(accent4), 50%);
 		font-family: _font(family-fixed);
 		font-size: 0.9em;
 		margin: 0 0.25em;
-		padding: 0.25em 0.65em;
+		padding: 0.15em 0.15em;
+        border-radius: .25em;
+        box-shadow: .05em .05em .1em _palette(accent4);
 	}
 
 	pre {
@@ -318,7 +320,7 @@ t1, t2, t3, t4, t5, t6 {
 		code {
 			display: block;
 			line-height: 1.75;
-			padding: 1em 1.5em;
+			padding: 1.5em 1.5em;
 			overflow-x: auto;
 		}
 	}

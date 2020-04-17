@@ -1,0 +1,30 @@
+I"�<p>Hey everyone! As a first post, I’m going through the steps I followed to get Google analytics up &amp; running on my website.</p>
+
+<!--more-->
+
+<h2>Getting started</h2>
+
+<p>First, if you haven’t already, head over to <a href="https://analytics.google.com/" target="_blank">Google analytics</a> and set up an account.</p>
+
+<p>Once you’re logged in, press the Admin <i class="fas fa-cog"></i> cog in the bottom left, then choose “Create Account.”</p>
+
+<h2>Create a Filter</h2>
+
+<p>Next, I wanted to make sure that no one could use my Analytics ID to send data from other sites. To do this, I created a custom filter.</p>
+
+<p>Go to <code><i class="fas fa-cog"></i> Admin &gt; <i class="fas fa-filter"></i> All Filters</code> and select <code>Add Filter</code>. Then,</p>
+<ul>
+<li>Name your filter whatever you like.</li>
+<li>Select Custom for filter type.</li>
+<li>Next, choose the <code>Include</code> option.</li>
+<li>From the Filter Field dropdown menu, pick <code>Hostname</code>.
+<li>Put your web address in the Filter Pattern field. Replace <code>.</code> with <code>\.</code>. For instance, I put <code>alexanderwood\\.github\\.io</code>.</li>
+<li>Add <code>All Web Site Data</code> to Selected Views.</li>
+<li>Press save!</li>
+&lt;/ul&gt;
+
+This process will look something like the screenshot below.
+
+<img src="../assets/images/20200417-filter.png" alt="Screenshot of Filter menu" />
+</li></ul>
+:ET

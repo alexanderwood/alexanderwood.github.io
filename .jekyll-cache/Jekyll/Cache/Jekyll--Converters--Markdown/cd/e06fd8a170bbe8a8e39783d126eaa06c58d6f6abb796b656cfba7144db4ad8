@@ -1,0 +1,52 @@
+I"�
+<p>Hey everyone! As a first post, I’m going through the steps I followed to get Google analytics up &amp; running on my website.</p>
+
+<!--more-->
+
+<h2>Getting started</h2>
+
+<p>First, if you haven’t already, head over to <a href="https://analytics.google.com/" target="_blank">Google analytics</a> and set up an account.</p>
+
+<p>Next, press the Admin <i class="fas fa-cog"></i> cog in the bottom left, then choose “Create Account.”</p>
+
+<h2>Add Website Tracking to your webpage</h2>
+
+<p>After creating my account, I needed to link my Google Analytics Tracking ID to my web site. The tracking info is located in <code><i class="fas fa-cog"></i> Admin &gt; <i class="fas fa-angle-left"></i><i class="fas fa-angle-right"></i> Tracking Info &gt; Tracking Code</code>. You should see a screen similar to the one below.</p>
+
+<p><span class="image fit"><img src="/assets/images/20200417-tracking-id.png" alt="Screenshot of Filter menu" /></span></p>
+
+<p>Here I can find my unique Tracking ID and a code snippet provided by Google under the Global Site Tag heading. This tag needs to be in the <code>&lt;HEAD&gt;</code> of every page I wish to track. Thankfully, Jekyll enables me to do this quite easily!</p>
+
+<p>First, I created a new file called <code>analytics.html</code> and placed this in my <code>_include</code> directory. Next, I added the line <code>tracking_id: UA-00000000-0</code> to my <code>_config.yml</code> file.</p>
+
+<p>The Global Site Tag tracking code should appear as the first item in the <code>&lt;HEAD&gt;</code> tag. My <code>_includes/head.html</code> looks as follows:</p>
+
+<pre><code>&lt;head&gt;
+     if site.google_analytics %}
+    
+    &lt;!-- The rest of your head content here --&gt;
+&lt;/head&gt;
+</code>
+</pre>
+
+<h2>Create a Filter</h2>
+
+<p>Next, I wanted to make sure that no one could use my Analytics ID to send data from other sites. To do this, I created a custom filter.</p>
+
+<p>Go to <code><i class="fas fa-cog"></i> Admin &gt; <i class="fas fa-filter"></i> All Filters</code> and select <code>Add Filter</code>. Then,</p>
+<ul>
+<li>Name your filter whatever you like.</li>
+<li>Select Custom for filter type.</li>
+<li>Next, choose the <code>Include</code> option.</li>
+<li>From the Filter Field dropdown menu, pick <code>Hostname</code>.</li>
+<li>Put your web address in the Filter Pattern field. Replace <code>.</code> with <code>\.</code>. For instance, I typed <code>alexanderwood\.github\.io</code>.</li>
+<li>Add <code>All Web Site Data</code> to Selected Views.</li>
+<li>Press save!</li>
+</ul>
+
+<p>This process will look something like the screenshot below.</p>
+
+<p><span class="image fit"><img src="/assets/images/20200417-filter.png" alt="Screenshot of Filter menu" /></span></p>
+
+<p>I hope this was helpful!</p>
+:ET

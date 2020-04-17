@@ -36,8 +36,7 @@ markdown: kramdown
 title_image: /assets/image/banner.jpg
 
 # Google Analytics
-google_analytics: UA-163772190-1
-google_analytics: UA-163772190-1
+tracking_id: UA-163772190-1
 
 sass:
   style: compressed
