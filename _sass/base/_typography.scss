@@ -72,6 +72,10 @@
 		a {
 			color: inherit;
 			border-bottom: 0;
+            
+            &:hover {
+                color: _palette(accent2);
+            }
 		}
 	}
 

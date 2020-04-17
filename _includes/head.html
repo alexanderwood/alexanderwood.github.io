@@ -1,4 +1,9 @@
 <head>
+
+    {% if site.google_analytics %}{% include analytics.html %}{% endif %}
+    
+    {% include twitter_cards.html %}
+    <!-- Header Content -->
     <link href="https://use.fontawesome.com/releases/v5.11.0/css/all.css" rel="stylesheet">
 	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
 	<meta charset="utf-8" />
@@ -7,26 +12,4 @@
 	<link rel="stylesheet" href="{{ "assets/css/main.css" | relative_url }}" />
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
-    
-    
-    <!-- Twitter cards -->
-    <meta name="twitter:site"    content="@{{ site.twitter_username }}">
-    <meta name="twitter:creator" content="@{{ page.author }}">
-    <meta name="twitter:title"   content="{{ page.title }}">
-
-    {% if page.summary %}
-    <meta name="twitter:description" content="{{ page.summary }}">
-    {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
-    {% endif %}
-
-    {% if page.image %}
-    <meta name="twitter:card"  content="summary_large_image">
-    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
-    {% else %}
-    <meta name="twitter:card"  content="summary">
-    <meta name="twitter:image" content="{{ site.title_image }}">
-    {% endif %}
-    <!-- end of Twitter cards -->
-
 </head>

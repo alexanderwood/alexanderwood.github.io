@@ -35,6 +35,10 @@ markdown: kramdown
 # Default twitter card image
 title_image: /assets/image/banner.jpg
 
+# Google Analytics
+google_analytics: UA-163772190-1
+google_analytics: UA-163772190-1
+
 sass:
   style: compressed
   
