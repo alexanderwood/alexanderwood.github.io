@@ -21,9 +21,10 @@
 // Font.
 	$font: (
 		family:				('Roboto', sans-serif),
-		family-fixed:		('Courier New', monospace),
+		family-fixed:		('Roboto mono', monospace),
         family-heading:     ('Russo One', sans-serif),
 		weight:				300,
+        weight-code:        400,
 		weight-bold:		600,
 		letter-spacing:		0.025em,
 		letter-spacing-alt:	0.25em

@@ -1,4 +1,4 @@
-I"^<p>Hey everyone! As a first post, I’m going through the steps I followed to get Google analytics up &amp; running on my website.</p>
+I"<p>Hey everyone! As a first post, I’m going through the steps I followed to get Google analytics up &amp; running on my website.</p>
 
 <!--more-->
 
@@ -21,7 +21,7 @@
 <p>The Global Site Tag tracking code should appear as the first item in the <code>&lt;head&gt;</code> tag. My <code>_includes/head.html</code> looks as follows:</p>
 
 <pre><code>&lt;head&gt;
-    &#123;% <b>if</b> site.tracking_id %}&#123;% include analytics.html %}&#123;% <b>endif</b> %}
+    &#123;% <b>if</b> <span style="color:teal;">site.tracking_id</span> %}&#123;% include analytics.html %}&#123;% <b>endif</b> %}
     
     &lt;!-- The rest of your head content here --&gt;
 &lt;/head&gt;

@@ -31,7 +31,7 @@ First, I created a new file called <code>analytics.html</code> and placed this i
 The Global Site Tag tracking code should appear as the first item in the <code><head></code> tag. My <code>_includes/head.html</code> looks as follows:
 
 <pre><code>&lt;head>
-    &#123;% <b>if</b> site.tracking_id %}&#123;% include analytics.html %}&#123;% <b>endif</b> %}
+    &#123;% <b>if</b> <span style="color:teal;">site.tracking_id</span> %}&#123;% <span style="color:darkblue;">include</span> <span style="color:teal;">analytics.html</span> %}&#123;% <b>endif</b> %}
     
     &lt;!-- The rest of your head content here -->
 &lt;/head>

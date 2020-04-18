@@ -305,10 +305,10 @@ t1, t2, t3, t4, t5, t6 {
 		background: lighten(_palette(accent4), 50%);
 		font-family: _font(family-fixed);
 		font-size: 0.9em;
+        font-weight: _font(weight-code);
 		margin: 0 0.25em;
 		padding: 0.15em 0.15em;
         border-radius: .25em;
-        box-shadow: .05em .05em .1em _palette(accent4);
 	}
 
 	pre {
@@ -318,10 +318,12 @@ t1, t2, t3, t4, t5, t6 {
 		margin: 0 0 _size(element-margin) 0;
 
 		code {
+            font-weight:_font(weight-code);
 			display: block;
 			line-height: 1.75;
 			padding: 1.5em 1.5em;
 			overflow-x: auto;
+            border: thin solid _palette(accent4);
 		}
 	}
 
