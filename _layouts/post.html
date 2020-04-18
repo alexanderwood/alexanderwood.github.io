@@ -23,9 +23,9 @@
 			<h1>{{ page.title }}</h1>
 		</header>
         {% if page.image_caption and page.image %}
-        <span class="image main"><img src="{{ site.baseurl }}{{ page.image }}" alt="" /><center><s5>{{ page.image_caption }}</s5></center></span>
+        <span class="image main"><img src="/{{ site.baseurl }}{{ page.image }}" alt="" /><center><s5>{{ page.image_caption }}</s5></center></span>
         {% elsif page.image %}
-        <span class="image main"><img src="{{ site.baseurl }}{{ page.image }}" alt="" /></span>
+        <span class="image main"><img src="/{{ site.baseurl }}{{ page.image }}" alt="" /></span>
         {% endif %}
 		{{ content }}
 	</div>
