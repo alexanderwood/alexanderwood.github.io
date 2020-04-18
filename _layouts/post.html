@@ -21,8 +21,7 @@
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.title }}</h1>
-		</header>
-        {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}{{ page.image }}" alt="" />{% if page.image_caption %}<center><s5>{{ page.image_caption }}</s5></center>{% endif %}</span>{% endif %}
+		</header>{{ page.image_caption and page.image }}<span class="image main"><img src="{{ site.baseurl }}{{ page.image }}" alt="" /><center><s5>{{ page.image_caption }}</s5></center></span>{% endif %}{% elsif page.image %}<span class="image main"><img src="{{ site.baseurl }}{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
 	</div>
 </section>
