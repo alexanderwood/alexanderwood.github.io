@@ -136,7 +136,7 @@ Long story short - <b>Happiness (or unhappiness) can be reasonably determined in
 
 <h2>Some Extra Happy Facts</h2>
 
-Arthur Porges showed in 1945 that all unhappy numbers eventually land in the same cycle of eight numbers: $$4$$, $$16$$, $$37$$, $$58$$, $$89$$, $$145$$, $$42$$, $$20$$. This was the earliest reference to happy numbers I was able to locate. (Let me know if you find anything earlier).
+Arthur Porges showed in 1945 that all unhappy numbers eventually land in the same cycle of eight numbers: $$4$$, $$16$$, $$37$$, $$58$$, $$89$$, $$145$$, $$42$$, $$20$$ <a href="#bib">[P45]</a>. This was the earliest reference to happy numbers I was able to locate. (Let me know if you find anything earlier).
 
 <span class="image fit"><img src="{% link assets/images/20200506-cycle.svg %}" alt="The cycle of eight numbers that all unhappy numbers reach." /></span>
 
