@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Seven Steps to Happiness
+author: Alexander Wood
 description: The Least Unhappy Numbers
 excerpt_separator: <!--more-->
 image: assets/images/20200506-164.svg
