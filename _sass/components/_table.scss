@@ -17,12 +17,12 @@
 
 		tbody {
 			tr {
-				border: solid 1px _palette(border);
+				border: 0; /*solid 1px _palette(border);*/
 				border-left: 0;
 				border-right: 0;
 
 				&:nth-child(2n + 1) {
-					background-color: _palette(border-bg);
+					background-color: _palette(bg);
 				}
 			}
 		}
