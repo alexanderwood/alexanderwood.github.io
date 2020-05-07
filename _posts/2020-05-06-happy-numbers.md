@@ -5,7 +5,7 @@ author: Alexander Wood
 description: The Least Unhappy Numbers
 excerpt_separator: <!--more-->
 image: assets/images/20200506-164.svg
-image_caption: 
+image_caption: A diagram showing an unhappy number caught in a loop.
 tags: leetcode happy-numbers number-theory
 ---
 
@@ -144,8 +144,8 @@ Variations on the Happy Numbers problem appeared again in the 60s in some books 
 
 The Happy Numbers problem resurfaced when mathematician Reg Allenby's daughter encountered it at school. Allenby shared the problem with Guy, who included it as entry E34 in his book of open problems in number theory where he posed a series of interesting questions about happy numbers <a href="#bib">[G94]</a>. For instance, is possible to have arbitrarily long sequences of consecutive happy numbers (e.g. $$7839$$, $$7840$$, $$7841$$, $$7842$$)? El-Sedy and Siksek showed in 2000 that the answer is yes <a href="#bib">[ES00]</a>.
 
-Other questions asked by Guy include finding a bound on the size of the least happy number of height $$h$$ and determining how large the gap can be in the sequence of happy numbers.
-Additional research examines generalizations of happy numbers with different bases and powers <a href="#bib">[GT01]</a>.
+Another question asked by Guy is to determine how large the gap can be in the sequence of happy numbers.
+Other research examines generalizations of happy numbers with different bases and powers <a href="#bib">[GT01]</a>.
 An <a href="https://oeis.org/A007770" target="blank">additional unproven conjecture</a> postulates that there are infinitely many happy primes.
 
 
