@@ -123,13 +123,15 @@ Not only do we know that numbers with heights as low as 8 and 9 are massive &mda
 
 <h2>Seven Steps to Happiness</h2>
 
-The <i>least</i> happy number of height 8 is 3,245 bits. The least happy number with height 9 is prohibitively large, as seen with even the laziest possible lower bound on an estimate of bit length that I put in the table. 
+The least happy number of height 8 is 3,245 bits. The least happy number with height 9 is prohibitively large, as seen with even the laziest possible lower bound on an estimate of bit length that I put in the table. 
 
-So, assuming that we will not encounter any numbers with bit lengths above 3,245 bits, we can replace the <code>while</code> loop in the code with a 7-iteration <code>for</code> loop, limiting the steps required in the worst-case. This may not be a particularly useful optimization, but I do think it is a mathematically interesting one. 
+So, assuming that we will not encounter any numbers with bit lengths above 3,245 bits, we can replace the <code>while</code> loop in the code with a 7-iteration <code>for</code> loop, limiting the steps required in the worst-case. 
+
+This may not be a particularly useful optimization, but I do think it is a mathematically interesting one. I included my implementation below. 
 
 <script src="https://gist.github.com/alexanderwood/0ed7748b900c017caf4cb867b576a5fd.js"></script>
 
-Happiness (or unhappiness) can be reasonably determined in seven steps. 
+Long story short - <b>Happiness (or unhappiness) can be reasonably determined in seven steps!</b> 
 
 
 <h2>Some Extra Happy Facts</h2>
