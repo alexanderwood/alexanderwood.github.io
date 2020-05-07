@@ -154,11 +154,12 @@ An <a href="https://oeis.org/A007770" target="blank">additional unproven conject
 <ul style="font-size:0.8em;">
     <li style="color:#aaaaaa;">[CZ08] T. Cai and X. Zhou. On the Heights of Happy Numbers. Rocky Mountain J. Math. 38 (2008), no. 6, 1921&mdash;1926.</li>
     <li style="color:#aaaaaa">[D67] H. E. Dudeney. Problem 143 in <font style="font-style:italic;">536 Puzzles & Curious Problems</font>. New York: Scribner, (1967), pp. 43 and 258-259.</li>
-    <li style="color:#aaaaaa">[ES00] E. El-Sedy and S. Siksek, On happy numbers , Rocky Mountain J. Mathematics 30 (2000), 565&mdash;570.</li>
+    <li style="color:#aaaaaa">[ES00] E. El-Sedy and S. Siksek. On happy numbers. Rocky Mountain J. Mathematics 30 (2000), 565&mdash;570.</li>
     <li style="color:#aaaaaa">[G94] R. K. Guy. "Happy Numbers." §E34 in Unsolved Problems in Number Theory, 2nd ed. New York: Springer-Verlag, pp. 234&mdash;235, 1994. </li>
     <li style="color:#aaaaaa">[GT01] H. G. Grundman and E. A. Teeple. <i>Generalized happy numbers</i>. Fibonacci Quarterly 39 (2001), 462&mdash;466.</li>
     <li style="color:#aaaaaa;">[GT03] H.G. Grundman and E.A. Teeple. Heights of happy numbers and cubic happy numbers. Fibonacci Quart., 41 (2003), pp. 301&mdash;306.</li>
     <li style="color:#aaaaaa;">[GT07] H.G. Grundman and E.A. Teeple. Sequences of Consecutive Happy Numbers. Rocky Mountain J. Math. 37 (2007), no. 6, 1905&mdash;1916.</li>
     <li style="color:#aaaaaa;">[M66] Joseph S. Madachy. <i>Mathematics on Vacation</i>. Scribner, 1966 - Mathematical recreations</li>
+    <li style="color:#aaaaaa;">[P] Arthur Porges. A Set of Eight Numbers. <i>The American Mathematical Monthly</i>, Vol. 52, No. 7 (Aug. - Sep., 1945), pp. 379 &mdash; 382.</li>
 </ul>
 </section>
